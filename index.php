@@ -3,7 +3,6 @@ $kid = new Kid();
 $kid->setName('しずか');
 $kid->setSex('girl');
 
-
 echo $kid->showName();
 
 class Kid{
